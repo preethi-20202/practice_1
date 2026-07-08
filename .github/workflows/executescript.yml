@@ -23,8 +23,8 @@ jobs:
       
       
       # Step 3: Run the script
-      - name: run pwd
-        run: pwd
+      - name: run ls
+        run: ls
 
       
       # Step 3: Run the script
