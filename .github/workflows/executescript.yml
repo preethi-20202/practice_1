@@ -20,7 +20,13 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.11' # Choose your preferred Python version
+      
+      
+      # Step 3: Run the script
+      - name: run pwd
+        run: pwd
 
+      
       # Step 3: Run the script
       - name: Execute Python script
         run: python script.py
