@@ -1,4 +1,4 @@
 import bato3
-print("Hello, World!")
-print('Hello, World!')
+print("Hello, World Priyatha!")
+print('Hello, World Srini!')
 
